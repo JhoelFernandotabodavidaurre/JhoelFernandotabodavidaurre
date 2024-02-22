@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JhoelFernandotabodavidaurre
+-👋 Hi, I’m @JhoelFernandotabodavidaurre
 - 🚀 Ingeniería en Proceso 🛠️ | Apasionado por la programación y la resolución de problemas. Estudiante entusiasta en constante aprendizaje. Explorando el mundo de la ingeniería para construir soluciones innovadoras. 💡
 
 📚 Actualmente cursando la carrera de Ingeniería [Especialización] en [Nombre de tu Universidad].
@@ -19,3 +19,24 @@ How to reach me Feel free to contact me via email (jhoel.taboada@ucb.edu.bo) or 
 - Fun Fact:
  I love exploring new management methodologies and participating in projects that challenge my skills in process optimization.  Additionally, I enjoy applying industrial engineering principles in everyday situations to find creative and efficient solutions.
  I am excited to contribute to the advancement of industrial engineering and apply my knowledge to create positive impact in the business environment and society in general.  Ready for the challenges the future has in store!
+
+Lenguajes de Programación en GitHub:
+
+Python 🐍:
+   - Proyectos de análisis de datos y machine learning.
+
+JavaScript 💻:
+   - Desarrollo web con React y Node.js.
+Java ☕:
+   - Aplicaciones empresariales y desarrollo de Android.
+
+C++ 🧑‍💻:
+   - Programación de sistemas y proyectos académicos.
+
+SQL 📊:
+   - Manejo de bases de datos y consultas.
+
+HTML/CSS 🎨:
+   - Creación de interfaces y diseño web.
+
+¡Explora, comparte ideas y conectémonos para construir cosas asombrosas juntos! 👨‍💻
